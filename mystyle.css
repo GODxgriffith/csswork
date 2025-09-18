@@ -1,0 +1,40 @@
+h1{
+    background-color: pink;
+    color: black;
+    border-style:solid;
+    border-color :pink;
+    border-top-width: 200px;
+    border-radius: 8px;
+    
+}
+p{
+    background-color: pink;
+    color: black;
+    border-style: solid;
+    border-color: pink;
+    border-width: 100px;
+    border-radius: 8px;
+}
+h2{
+    color: firebrick;
+    background-color: pink;
+    font-style: italic;
+    border-style: solid;
+    border-color: pink;
+    border-top-width: 160px;
+    border-radius: 8px;
+    margin:auto;
+}
+body{
+    background-color: black;
+}
+div{
+      background-color: pink;
+    color: black;
+    border-style: solid;
+    border-color: pink;
+    border-width: 100px;
+    border-radius: 8px;
+}
+
+
